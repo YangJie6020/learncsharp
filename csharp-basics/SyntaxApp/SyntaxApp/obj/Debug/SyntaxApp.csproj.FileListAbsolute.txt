@@ -1,0 +1,6 @@
+E:\csharp\csharp-basics\SyntaxApp\SyntaxApp\bin\Debug\SyntaxApp.exe.config
+E:\csharp\csharp-basics\SyntaxApp\SyntaxApp\bin\Debug\SyntaxApp.exe
+E:\csharp\csharp-basics\SyntaxApp\SyntaxApp\bin\Debug\SyntaxApp.pdb
+E:\csharp\csharp-basics\SyntaxApp\SyntaxApp\obj\Debug\SyntaxApp.csproj.CoreCompileInputs.cache
+E:\csharp\csharp-basics\SyntaxApp\SyntaxApp\obj\Debug\SyntaxApp.exe
+E:\csharp\csharp-basics\SyntaxApp\SyntaxApp\obj\Debug\SyntaxApp.pdb
